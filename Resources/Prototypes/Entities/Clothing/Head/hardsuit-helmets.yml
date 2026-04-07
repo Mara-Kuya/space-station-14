@@ -365,6 +365,13 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
+#Divided Space edit
+  - type: FlashImmunity
+  - type: EyeProtection
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+#Edit end
 
 #Blood-red Medic Hardsuit
 - type: entity
@@ -389,6 +396,13 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
+#Divided Space edit
+  - type: FlashImmunity
+  - type: EyeProtection
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+#Edit end
 
 #Syndicate Elite Hardsuit
 - type: entity
@@ -417,6 +431,13 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
+#Divided Space edit
+  - type: FlashImmunity
+  - type: EyeProtection
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+#Edit end
 
 #Syndicate Commander Hardsuit
 - type: entity
@@ -441,6 +462,13 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
+#Divided Space edit
+  - type: FlashImmunity
+  - type: EyeProtection
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+#Edit end
 
 #Cybersun Juggernaut Hardsuit
 - type: entity
@@ -465,6 +493,13 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
+#Divided Space edit
+  - type: FlashImmunity
+  - type: EyeProtection
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+#Edit end
 
 #Wizard Hardsuit
 - type: entity
